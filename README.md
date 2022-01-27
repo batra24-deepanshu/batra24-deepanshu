@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://deepanshu-batra.netlify.app/](https://deepanshubatra.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://deepanshubatra.netlify.app/](https://deepanshubatra.netlify.app/)
 
 - 💬 Ask me about **Web Development**
 
