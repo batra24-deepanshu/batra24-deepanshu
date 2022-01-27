@@ -1,15 +1,13 @@
-[![MasterHead](https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/full-stack-development.gif)](https://deepanshu-batra.netlify.app/)
+[![MasterHead](https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/full-stack-development.gif)](https://deepanshubatra.netlify.app/)
 <h1 align="center">Hi 👋, I'm Deepanshu Batra</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=batra24-deepanshu&label=Profile%20views&color=0e75b6&style=flat" alt="batra24-deepanshu" /> </p>
 
-- 🔭 I’m currently working on [Music World Store](https://music-world-store.herokuapp.com/)
-
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://deepanshu-batra.netlify.app/](https://deepanshu-batra.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://deepanshu-batra.netlify.app/](https://deepanshubatra.netlify.app/)
 
 - 💬 Ask me about **Web Development**
 
